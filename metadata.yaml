@@ -1,5 +1,5 @@
 _repo: Sonnets-on-Sundry-Notes-of-Music_1546
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,5 +28,6 @@ rights_url: ''
 subjects:
 - !lcc 'PR'
 - !lcsh 'English poetry -- Early modern, 1500-1700'
+- GITenberg
 title: Sonnets on Sundry Notes of Music
 url: http://www.gutenberg.org/ebooks/1546
